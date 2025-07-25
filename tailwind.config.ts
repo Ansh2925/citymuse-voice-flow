@@ -52,6 +52,27 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// CityMuse custom colors
+				earth: {
+					warm: 'hsl(var(--earth-warm))',
+					deep: 'hsl(var(--earth-deep))'
+				},
+				sage: {
+					light: 'hsl(var(--sage-light))',
+					deep: 'hsl(var(--sage-deep))'
+				},
+				sunset: 'hsl(var(--sunset))',
+				dawn: 'hsl(var(--dawn))',
+				voice: {
+					active: 'hsl(var(--voice-active))',
+					inactive: 'hsl(var(--voice-inactive))'
+				},
+				mood: {
+					happy: 'hsl(var(--mood-happy))',
+					calm: 'hsl(var(--mood-calm))',
+					adventurous: 'hsl(var(--mood-adventurous))',
+					curious: 'hsl(var(--mood-curious))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
